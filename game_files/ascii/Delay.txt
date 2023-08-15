@@ -1,0 +1,11 @@
+|-------------------------------|
+| Delay                   |   1 |
+|-------------------------------|
+|                   Enchantment |
+|-------------------------------|
+| Enchanted minion does not gai |
+| n an action on their next tur |
+| n. This enchantement is autom |
+| atically destroyed after 1 tu |
+| rn                            |
+|-------------------------------|
