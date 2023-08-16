@@ -132,4 +132,4 @@ on no target).
 
 - It is helpful to regularly display the `board` and your `hand` throughout the game, at the start of every turn, and as frequently as you need it.
 
-For further details about this project's deliverables, criteria, and expectations; see the file `Sorcery.pdf`
+For further details about this project's deliverables, criteria, and expectations; see the file [Sorcery.pdf](https://github.com/SkyeChen-28/sorcery-public/blob/main/Sorcery.pdf)
